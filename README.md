@@ -56,3 +56,14 @@ FN Diagram LLD
 
 https://drive.google.com/file/d/1bhh8ICYFRKhsvGtfqtQ3db5qQiP5rwJy/view?usp=sharing
 
+
+
+
+SSL configure 
+
+https://github.com/razibnext/Handover/blob/main/Posh-ACME.pdf 
+
+which is shared already with wakil also AWS ACM . 
+
+
+
