@@ -65,5 +65,15 @@ https://github.com/razibnext/Handover/blob/main/Posh-ACME.pdf
 
 which is shared already with wakil also AWS ACM . 
 
+AWS RDS 
+
+Create , Autoscale of Storage have showed to wakil . 
+
+AWS ALB 
+
+Step by step showed to wakil also he has done 1 implementation in dev acc with cert of AWS cert manager . 
+
+
+**  i have done all the things with my team there is no hide & seek game . **  
 
 
