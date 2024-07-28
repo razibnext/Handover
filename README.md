@@ -74,6 +74,30 @@ AWS ALB
 Step by step showed to wakil also he has done 1 implementation in dev acc with cert of AWS cert manager . 
 
 
+
+AWS ETL proces 
+
+which is totally done by wakil . 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **  i have done all the things with my team there is no hide & seek game . **  
 
 
