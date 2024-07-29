@@ -91,6 +91,12 @@ https://github.com/finalyt/inhouse-crm-frontend/blob/develop/task-definition.jso
 
 
 
+DockerFile 
+
+https://github.com/finalyt/inhouse-crm-frontend/blob/develop/Dockerfile
+
+
+
 
 
 
