@@ -80,6 +80,14 @@ AWS ETL proces
 which is totally done by wakil . 
 
 
+CI/CD Github Action 
+
+https://github.com/finalyt/inhouse-crm-frontend/blob/develop/.github/workflows/aws.yml
+
+
+AWS ECS task-definition.json file 
+
+https://github.com/finalyt/inhouse-crm-frontend/blob/develop/task-definition.json
 
 
 
@@ -96,8 +104,5 @@ which is totally done by wakil .
 
 
 
-
-
-**  i have done all the things with my team there is no hide & seek game . **  
 
 
